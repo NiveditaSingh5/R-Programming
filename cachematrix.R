@@ -1,4 +1,4 @@
-## This function creates a special "matrix" object that can cache its inverse
+## This function creates a special "matrix" object that can cache its inverse.
 ## Inverse will exist only when the matrix is square and non-singular
 
 ## makeCacheMatrix creates a special "matrix", which is really a list containing
